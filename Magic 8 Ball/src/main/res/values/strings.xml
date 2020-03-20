@@ -1,0 +1,19 @@
+<resources>
+<string name="app_name">Magic 8 Ball</string>
+
+<!---->
+<string-array name="fortunes">
+    <item>This looks positive</item>
+    <item>Try again later</item>
+    <item>Looks good</item>
+    <item>Not looking good</item>
+    <item>Do not count on it</item>
+    <item>It is possible</item>
+    <item>Relax, it is coming!</item>
+    <item>Absolutely</item>
+    <item>Absolutely NOT</item>
+    <item>In your dreams</item>
+    <item>Give it time</item>
+</string-array>
+<!---->
+</resources>
